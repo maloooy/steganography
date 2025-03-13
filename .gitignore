@@ -2,3 +2,5 @@
 venv
 lab1/test.py
 lab2/picture*.*
+lab3/*.bmp
+lab3/check.py
